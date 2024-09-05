@@ -5,7 +5,7 @@ A Senior @UW-Madison, Double Majoring in CS & DS with a Minor in Economics
 
 * 🌍  I'm based in Madison, Wisconsin
 * 🖥️  See my online portfolio at [my website](https://arkdutt.github.io/)
-* ✉️  You can contact me at [dutt3@wisc.edu](mailto:dutt3@wisc.edu)
+* ✉️  You can contact me at [arksdutt@gmail.com](mailto:arksdutt@gmail.com)
 * 🚀  I'm currently working as a software developer at the Wisconsin Center of Education Research
 * 🧠  I'm currently learning Machine Learning
 * 🤝  I'm open to collaborating on Data Science Projects
