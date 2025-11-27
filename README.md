@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ark Dutt
 =====================================================================================================================================
-A Senior @UW-Madison, Double Majoring in CS & DS with a Minor in Economics
+Fullstack Developer @Mountain House Media | A recent graduate from @UW-Madison, Double Majoring in CS & DS with a Minor in Economics
 ---------------------------------------------------------------------------
 
-* 🌍  I'm based in Madison, Wisconsin
+* 🌍  I'm based in Rochester, NY
 * 🖥️  See my online portfolio at [my website](https://arkdutt.com)
 * ✉️  You can contact me at [arksdutt@gmail.com](mailto:arksdutt@gmail.com)
-* 🚀  I'm currently working as a software developer at the Wisconsin Center of Education Research
-* 🧠  I'm currently learning Machine Learning
-* 🤝  I'm open to collaborating on Data Science Projects
+* 🚀  I'm currently working as a fullstack developer at Mountain House Media
+* 🧠  I'm currently learning Agentic AI systems
+* 🤝  I'm open to collaborating on AI/ML Projects
 
 ### Skills
 
