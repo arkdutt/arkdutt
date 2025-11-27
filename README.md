@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ark Dutt
 =====================================================================================================================================
-Fullstack Developer @Mountain House Media | A recent graduate from @UW-Madison, Double Majoring in CS & DS with a Minor in Economics
+Fullstack Developer @Mountain House Media | A recent graduate from UW-Madison, Double Majoring in CS & DS with a Minor in Economics
 ---------------------------------------------------------------------------
 
 * 🌍  I'm based in Rochester, NY
